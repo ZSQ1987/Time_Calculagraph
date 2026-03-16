@@ -61,6 +61,7 @@ cover/
 AAA.py
 *.ico
 *.txt
+*.exe
 local_settings.py
 version.py
 db.sqlite3
